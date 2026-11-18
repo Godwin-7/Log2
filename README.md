@@ -1,1 +1,1 @@
-# Log book details
+# Log details
